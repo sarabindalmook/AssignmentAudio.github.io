@@ -110,7 +110,7 @@ initializeAudioBehavior(buttonA3, 'AUDIOS/calculus2.mp3', popupA3);
 initializeAudioBehavior(buttonA4, 'AUDIOS/exam.mp3', popupA4);
 
 initializeAudioBehavior(buttonBlueHall, 'AUDIOS/piano.mp3', popupBlueHall);
-initializeAudioBehavior(buttonRedTheater, 'AUDIOS/ORIGINAL_red.mp3', popupRedTheater);
+initializeAudioBehavior(buttonRedTheater, 'AUDIOS/ORIGINAL_Red.mp3', popupRedTheater);
 initializeAudioBehavior(buttonBlackBox, 'AUDIOS/crowd.mp3', popupBlackBox);
 
 initializeAudioBehavior(buttonA1A, 'AUDIOS/ORIGINAL_crying.mp3', popupA1A);
