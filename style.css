@@ -1,0 +1,343 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: monospace;
+    background-color: #6c00d2;
+}
+
+/* Define the initial background color */
+#background {
+  background-color: #7104b0;
+  width: 100%;
+  height: 100vh;
+}
+
+/* A3 */
+#a3 {
+    transform-origin: center;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+#a3:hover {
+    transform: scale(1.05);
+    fill: #39880b;
+}
+
+/* A4 */
+#a4 {
+    transform-origin: center;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+#a4:hover {
+    transform: scale(1.05);
+    fill: #028b79f4;
+}
+
+/* Red Theater */
+#redtheater {
+    transform-origin: center;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+#redtheater:hover {
+    transform: scale(1.02);
+    fill: #d70000;
+}
+
+/* Blue Hall */
+#bluehall {
+    transform-origin: center;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+#bluehall:hover {
+    transform: scale(1.02);
+    fill: #0400d7;
+}
+
+/* Black Hall */
+#blackbox {
+    transform-origin: center;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+#blackbox:hover {
+    transform: scale(1.02);
+    fill: #3d3d3d;
+}
+
+/* B2 */
+#b2 {
+    transform-origin: center;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+#b2:hover {
+    transform: scale(1.05);
+    fill: #ffd6d6;
+}
+
+/* B1 */
+#b1 {
+    transform-origin: center;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+#b1:hover {
+    transform: scale(1.05);
+    fill: #ffd6d6;
+}
+
+/* D1 */
+#d1 {
+    transform-origin: center;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+#d1:hover {
+    transform: scale(1.03);
+    fill: #ee4768;
+}
+
+/* D2 */
+#d2 {
+    transform-origin: center;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+#d2:hover {
+    transform: scale(1.03);
+    fill: #ee4768;
+}
+
+/* A5B */
+#a5b {
+    transform-origin: center;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+#a5b:hover {
+    transform: scale(1.04);
+    fill: #a18600;
+}
+
+/* A6B */
+#a6b {
+    transform-origin: center;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+#a6b:hover {
+    transform: scale(1.04);
+    fill: #a18600;
+}
+
+/* A6C */
+#a6c {
+    transform-origin: center;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+#a6c:hover {
+    transform: scale(1.04);
+    fill: #22e19b;
+}
+
+/* A6A */
+#a6a {
+    transform-origin: center;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+#a6a:hover {
+    transform: scale(1.04);
+    fill: #69581e;
+}
+
+/* C2 */
+#c2 {
+    transform-origin: center;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+#c2:hover {
+    transform: scale(1.04);
+    fill: #757575;
+}
+
+/* A5A */
+#a5a {
+    transform-origin: center;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+#a5a:hover {
+    transform: scale(1.04);
+    fill: #41778e;
+}
+
+/* A5C */
+#a5c {
+    transform-origin: center;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+#a5c:hover {
+    transform: scale(1.04);
+    fill: #0c068d;
+}
+
+/* A1C */
+#a1c {
+    transform-origin: center;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+#a1c:hover {
+    transform: scale(1.04);
+    fill: #810949;
+}
+
+/* A2B */
+#a2b {
+    transform-origin: center;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+#a2b:hover {
+    transform: scale(1.04);
+    fill: #a14074;
+}
+
+/* A2A */
+#a2a {
+    transform-origin: center;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+#a2a:hover {
+    transform: scale(1.04);
+    fill: #ffee6e;
+}
+
+/* A2C */
+#a2c {
+    transform-origin: center;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+#a2c:hover {
+    transform: scale(1.04);
+    fill: #f35926;
+}
+
+/* A1A */
+#a1a {
+    transform-origin: center;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+#a1a:hover {
+    transform: scale(1.04);
+    fill: #574902;
+}
+
+/* A1B */
+#a1b {
+    transform-origin: center;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+#a1b:hover {
+    transform: scale(1.05);
+    fill: #ffd000f4;
+}
+
+
+/* Library */
+#library {
+    transform-origin: center;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+#library:hover {
+    transform: scale(1.05);
+    fill: #ffd000f4;
+}
+
+
+#logo {
+   position: fixed;
+   top: 0;
+   left: 0;
+   padding: 10px;
+   width: 220px; /* Adjust the width as needed */
+   height: auto; /* Maintains aspect ratio */
+   z-index: 999; /* Ensures it's on top of other content */
+}
+
+
+#d2-container, #d1-container, #b2-container, #b1-container, #c2-container, #a3-container, #a4-container,
+#a1b-container, #a1a-container, #a1c-container, #a2a-container, #a2b-container, #a2c-container,
+#a5a-container, #a5b-container, #a5c-container, #a6a-container, #a6b-container, #a6c-container,
+#redtheater-container, #bluehall-container, #blackbox-container
+{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #fff;
+    display: none;
+    z-index: 999;
+    padding: 10px;
+    border-top: 1px solid #333;
+    box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.1);
+
+}
+
+#popupContent {
+    text-align: center;
+}
+
+#popupContent p{
+    text-align: center;
+    padding: 6px 100px;
+}
+
+#popupContent h2{
+    text-align: center;
+    padding: 10px 100px;
+}
+
+#closePopup {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 6px 20px;
+    cursor: pointer;
+    border-radius: 20px;
+}
